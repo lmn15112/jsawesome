@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)

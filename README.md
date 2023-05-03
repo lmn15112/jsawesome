@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)

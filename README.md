@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+OBB: Fix plot_images (#7592)

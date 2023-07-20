@@ -1,1 +1,1 @@
-add yolov10
+Fix TFLite INT8 for OBB (#7989)

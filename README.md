@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update neural-magic.md (#7347)

@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)

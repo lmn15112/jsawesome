@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)

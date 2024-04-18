@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Compress docs images (#8124)

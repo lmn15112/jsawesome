@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)

@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add horizontal Mosaic3 augmentation (#6898)
